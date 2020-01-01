@@ -1,0 +1,25 @@
+
+2015-06-11 16:57:26;;;;;176.8.213.163;;;;;http://fmp3.ru/;;;;;Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+2015-06-11 16:58:26;;;;;216.158.217.104;;;;;http://fmp3.ru/;;;;;Mozilla/5.0 (Windows NT 6.2; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0
+2015-06-11 16:59:02;;;;;176.8.213.163;;;;;/index.php;;;;;http://fmp3.ru/;;;;;Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+2015-06-11 16:59:10;;;;;176.8.213.163;;;;;/index.php;;;;;http://fmp3.ru/barely-alive-work-it-rogich-remix.html;;;;;Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+2015-06-11 16:59:11;;;;;176.8.213.163;;;;;/index.php;;;;;http://fmp3.ru/barely-alive-work-it-rogich-remix.html;;;;;Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+2015-06-11 17:00:21;;;;;176.8.213.163;;;;;/index.php;;;;;http://fmp3.ru/barely-alive-work-it-rogich-remix.html;;;;;Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+2015-06-11 17:01:14;;;;;176.8.213.163;;;;;index.php;;;;;http://fmp3.ru/barely-alive-work-it-rogich-remix.html;;;;;Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+2015-06-11 17:03:16;;;;;176.8.213.163;;;;;index.php;;;;;http://fmp3.ru/;;;;;Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+2015-06-11 17:03:18;;;;;176.8.213.163;;;;;index.php;;;;;http://fmp3.ru/virtual-riot-sub-sound-where-are-you-rogich-remix.html;;;;;Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+2015-06-11 17:03:20;;;;;176.8.213.163;;;;;index.php;;;;;http://fmp3.ru/rogich-explosion-trap-mashup.html;;;;;Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+2015-06-11 17:03:45;;;;;66.249.78.131;;;;;index.php;;;;;http://fmp3.ru/trap-kachaet-goluboj-vagon.html;;;;;Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+2015-06-11 17:06:46;;;;;176.8.213.163;;;;;search.php;;;;;http://fmp3.ru/barely-alive-work-it-rogich-remix.html;;;;;Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+2015-06-11 17:06:48;;;;;176.8.213.163;;;;;search.php;;;;;http://fmp3.ru/barely-alive-work-it-rogich-remix.html;;;;;Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+2015-06-11 17:12:53;;;;;66.249.78.138;;;;;search.php;;;;;http://fmp3.ru/of-monsters-and-men-hunger.html;;;;;Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+2015-06-11 17:14:37;;;;;66.249.78.131;;;;;search.php;;;;;http://fmp3.ru/trap-kachaet-chunga-changa.html;;;;;Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+2015-06-11 17:15:45;;;;;66.249.78.124;;;;;search.php;;;;;http://fmp3.ru/sektor-gaza-kolxoznyj-pank.html;;;;;Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+2015-06-11 17:17:07;;;;;66.249.78.124;;;;;search.php;;;;;http://fmp3.ru/homie-plackart-nomer-vosem.html;;;;;Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+2015-06-11 17:18:13;;;;;66.249.78.138;;;;;search.php;;;;;http://fmp3.ru/myltfilmy-disney-choknutyj.html;;;;;Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+2015-06-11 17:24:59;;;;;66.249.78.138;;;;;search.php;;;;;http://fmp3.ru/myltfilmy-disney-vinni-pux.html;;;;;Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+2015-06-11 17:26:13;;;;;66.249.78.138;;;;;search.php;;;;;http://fmp3.ru/c-c-catch-heartbreak-hotel.html;;;;;Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+2015-06-11 17:28:52;;;;;66.249.79.111;;;;;search.php;;;;;http://fmp3.ru/-bass-terror--bassboosted-7.html;;;;;Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+2015-06-11 17:29:15;;;;;66.249.78.138;;;;;search.php;;;;;http://fmp3.ru/en-tyga-track-9-bassboosted.html;;;;;Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+2015-06-11 17:30:09;;;;;66.249.78.243;;;;;search.php;;;;;http://fmp3.ru/trap-kachaet-uchat-v-shkole.html;;;;;Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+2015-06-11 17:31:25;;;;;66.249.78.138;;;;;search.php;;;;;http://fmp3.ru/-bass-terror--bassboosted-1.html;;;;;Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
